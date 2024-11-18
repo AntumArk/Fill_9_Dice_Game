@@ -5,3 +5,5 @@ This is my attempt on some table game where you roll two dices and attempt to ma
 The bars on the right shows distribution for all rolled dices.  
 
 I did try adding AI to it, but did not finish.
+
+![Preview](image.png)
